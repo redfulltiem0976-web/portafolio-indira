@@ -1,0 +1,11 @@
+PORTAFOLIO INDIRA — PALETA PREMIUM FINAL
+
+Esta versión se preparó para revisión local. Tu página de Vercel NO se ha modificado.
+
+Revisión:
+1. Abre index.html en Chrome desde esta carpeta, manteniendo la subcarpeta assets.
+2. Revisa las secciones, proyectos, y Modo presentación.
+3. Si te gusta, reemplaza index.html y cv_ats_indira.html en tu repositorio GitHub portafolio-indira.
+4. La carpeta assets no cambia; no es necesario reemplazarla si ya se encuentra en el repositorio.
+
+Identidad cromática: azul zafiro #4F6BFF; iris #7A5CFF; lavanda #C9B8FF; fondo #F7F8FE; texto #141C36.
