@@ -1,0 +1,41 @@
+ACTUALIZACIÓN DE PORTAFOLIO — INDIRA MILAGROS TAPIA QUISPE
+=============================================================
+Este paquete es un complemento para el repositorio público:
+https://github.com/redfulltiem0976-web/portafolio-indira
+Sitio web: https://portafolio-indira-senati.vercel.app/
+
+CAMBIOS QUE APLICA
+1. Inserta tu foto real en la sección de presentación (primera pantalla).
+2. Cambia los recuadros confusos «03 prototipos», «03 bases de datos» y
+   «03 pruebas API» por: OPERACIONES, INVENTARIO y APRENDIZAJE.
+3. Coloca «Descargar CV» en la barra superior, enlazando al PDF aportado.
+4. Añade accesos a LinkedIn y GitHub en el encabezado y al final de la página.
+5. Cambia los enlaces de «Ver/Consultar CV» para descargar el archivo PDF.
+6. No reemplaza los proyectos ni modifica el diseño general existente.
+
+INSTRUCCIONES PARA PUBLICAR EN GITHUB (2 PARTES)
+1) Abre tu repositorio: https://github.com/redfulltiem0976-web/portafolio-indira
+2) Pulsa «Add file» > «Upload files». Sube SOLO estos tres archivos en la
+   carpeta PRINCIPAL del repositorio (al lado del archivo index.html):
+   - foto-indira.jpg
+   - CV_ATS_Indira_Milagros_Tapia_Quispe.pdf
+   - mejoras-indira.js
+   Luego pulsa «Commit changes».
+
+3) Abre el archivo «index.html» en GitHub y pulsa el lápiz «Edit this file».
+4) Justo ANTES de la etiqueta final </body>, pega esta línea:
+
+   <script src="./mejoras-indira.js" defer></script>
+
+5) Pulsa «Commit changes».
+6) Abre la URL de Vercel y recarga con Ctrl + F5.
+
+IMPORTANTE
+- Esta modificación no está publicada todavía. No tengo acceso de escritura
+  a tu GitHub o a tu proyecto Vercel desde este chat.
+- Si GitHub no está conectado a Vercel para implementar cada cambio, tendrás
+  que desplegar el repositorio actualizado en Vercel de forma manual.
+- Los enlaces a LinkedIn/GitHub y el CV PDF estarán públicos, como pediste.
+- No pegues la línea del script en la presentación PowerPoint ni en tu CV.
+- Si quieres deshacer los cambios, borra la línea <script ...> de index.html.
+- Si prefieres no publicar tu foto o CV con datos personales, no los subas.
